@@ -1,4 +1,11 @@
-- 👋 Hi, I’m Alexandra Fedorkevich
+Alexandra Fedorkevich // data analyst
+
+resume: [Федоркевич Александра // Аналитик данных.pdf](https://github.com/user-attachments/files/16698316/default.pdf)
+
+tg: https://t.me/honey_fedor
+
+
+
 
 
 <!---
